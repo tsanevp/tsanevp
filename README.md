@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [![website](./img/globe-light.png)](https://tsanev-peter-personal-site.herokuapp.com/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://tsanev-peter-personal-site.herokuapp.com/#gh-dark-mode-only)
+[![website](./img/globe-light.png)](https://tsanev-peter-personal-site.herokuapp.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/tsanevpeter#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/tsanevpeter#gh-dark-mode-only)
