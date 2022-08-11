@@ -15,8 +15,8 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/tsanevpeter#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/tsanevpeter#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/tsanevpeter#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/tsanevpeter#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/petertsanev/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/petertsanev/#gh-dark-mode-only)
 
 <!---
 ### Languages and Tools:
