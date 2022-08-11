@@ -40,13 +40,13 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 --->
 <br />
-<br />
 ---
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
+
 <!--START_SECTION:activity-->
-1. ❌ Created and updated reposotory for freelancing work [#11](https://github.com/tsanevp/AddAttendeesToEventBrite) in [tsanevp/AddAttendeesToEventBrite](https://github.com/tsanevp/AddAttendeesToEventBrite)
+1. Created repo for freelancing job completed in July 22'. The work can be found in [tsanevp/AddAttendeesToEventBrite](https://github.com/tsanevp/AddAttendeesToEventBrite)
+2. Starting building my personal website from scratch with no previous HTML, CSS, or JS experience. Currently a work in progress. Can be found in [tsanevp/PersonalWebsite](https://github.com/tsanevp/PersonalWebsite)
 <!--END_SECTION:activity-->
 
 </details>
