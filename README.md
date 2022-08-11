@@ -1,6 +1,6 @@
 # Hi there, I'm Peter 👋 
 
-## I'm a Student, Athelete, Developer, and Friend!!
+## I'm a Student, Athelete, Developer, and Chef!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others more
@@ -41,17 +41,12 @@
 --->
 <br />
 <br />
-
 ---
-
----
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-
-
+1. ❌ Created and updated reposotory for freelancing work [#11](https://github.com/tsanevp/AddAttendeesToEventBrite) in [tsanevp/AddAttendeesToEventBrite](https://github.com/tsanevp/AddAttendeesToEventBrite)
 <!--END_SECTION:activity-->
 
 </details>
