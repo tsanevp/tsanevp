@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others more
-- 🥅 2022 Goals: Learn more about Web Development
+- 🥅 2023 Goals: Learn more about Web Development
 - ⚡ Fun fact: I love to travel and play video games
 
 ### Connect with me:
