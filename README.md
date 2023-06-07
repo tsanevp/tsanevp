@@ -46,8 +46,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. Created repo for freelancing job completed in July 22'. The work can be found in [tsanevp/AddAttendeesToEventBrite](https://github.com/tsanevp/AddAttendeesToEventBrite).
-2. Starting building my personal website from scratch with no previous HTML, CSS, or JS experience. Currently a work in progress. Can be found in [tsanevp/PersonalWebsite](https://github.com/tsanevp/PersonalWebsite).
+1. Created a Discord bot using JDA 5. It is a Marketplace bot that can be used to buy/sell/trade items on a Discord server. See [tsanevp/MarketPlace-Bot](https://github.com/tsanevp/MarketPlace-Bot).
+2. Continued building my personal website from scratch. I had zero previous HTML, CSS, or JS experience and am learning on-the-go. See [tsanevp/PersonalWebsite](https://github.com/tsanevp/PersonalWebsite).
 <!--END_SECTION:activity-->
 
 </details>
