@@ -59,6 +59,6 @@
 
 </details>
 
-[website]: https://tsanev-peter-personal-site.herokuapp.com/
+[website]: https://tsanevp.github.io/PersonalWebsite/
 [instagram]: https://instagram.com/tsanevpeter
 [linkedin]: https://linkedin.com/in/tsanevpeter
