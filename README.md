@@ -2,9 +2,9 @@
 
 ## I'm a Student, Athelete, Developer, and Chef!!
 
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently self learning Web Development
 - 👯 I’m looking to collaborate with others more
-- 🥅 2023 Goals: Learn more about Web Development
+- 🥅 2023 Goals: Learn more about Backend Development
 - ⚡ Fun fact: I love to travel and play video games
 
 ### Connect with me:
