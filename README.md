@@ -1,43 +1,86 @@
-# Hi there, I'm Peter 👋 
+# 👋 Hi there, I'm Peter 
 
-## I'm a Student, Athelete, Developer, and Chef!!
+# 💻 &nbsp;About Me 
 
-- 🌱 I’m currently self-learning Web Development
-- 👯 I’m looking to collaborate with others more
-- 🥅 2023 Goals: Learn more about Backend Development
-- ⚡ Fun fact: I love to travel and play video games
+* ❤ &nbsp; Interested in Back-End, Front-End, Cloud-Computing, Distributed Systems, and DevOps Practice
+* 🎓 &nbsp; Pursuing <b>Master of Science in Computer Science</b> at Northeastern University
+* 🎓 &nbsp; Obtained <b>Mechanical Engineering Bachelors degree</b> from The University of Washington
+* 💼 &nbsp; Looking for SWE/SDE <b>internship/co-op</b> opportunities from <b>Jan-2024 to Dec-2024 </b>
+* 💼 &nbsp; or Full Time Opportunities from Jan-2025 to May-2025 (Note my graduation date is flexible)
 
-### Connect with me:
+## 🤝🏻 &nbsp;Connect with Me ##
+[Linkedin](https://https://www.linkedin.com/in/tsanevpeter/)
 
-[![website](./img/globe-light.svg)](https://tsanevp.github.io/PersonalWebsite/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://tsanevp.github.io/PersonalWebsite/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/tsanevpeter#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/tsanevpeter#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/petertsanev/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/petertsanev/#gh-dark-mode-only)
+# 🛠 &nbsp; My current Skill Tech Stack 
+## 🥇 &nbsp; Certificates I Have
+* In Progress
+  
+## 🧮 &nbsp; Programming Languages ###
+#### Proficient 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  
+#### Intermediate
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-### Languages and Tools:
+#### Familiar
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Express.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+## 🖥 Cloud/Database ### 
+#### Proficient /Intermediate 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<br />
+#### Familiar 
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+## ⚙ &nbsp; Other Frameworks/Tools/Libraries ###
+#### Proficient /Intermediate 
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows 10](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+  
+#### Familiar 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+##  🔧 Developer Tools ###
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQLWorkbench](https://img.shields.io/badge/-MySQLWorkbench-333333?style=flat&logo=MySQLWorkbench)
+
+#### 📜 &nbsp; Self Assessment Proficiency Levels Explained
+* <b> Proficient </b> - I consider myself proficient if I can use the tech stack with minimum reference to the documentation / write more than 10k lines of codes with it
+* <b> Intermediate </b> - I consider myself intermediate if I can use the tech stack with some reference to the documentation / write more than 2k lines of codes with it
+* <b> Familiar </b> - I consider myself familiar if I have gone through the introductory tutorials and completed one or two projects with it.
+
+# 🤝🏻 &nbsp;Projects and Works Highlight
+For a complete list of projects that I have done, visit my [website](https://tsanevp.github.io/PersonalWebsite/)
+
+## ♥ &nbsp; Other Interests ###
+* Playing Pickleball & Spikeball
+* Weightlifting
+* Cooking
+* Eating :) 
 
 ---
 
@@ -58,6 +101,3 @@
 
 </details>
 
-[website]: https://tsanevp.github.io/PersonalWebsite
-[instagram]: https://instagram.com/tsanevpeter
-[linkedin]: https://linkedin.com/in/tsanevpeter
