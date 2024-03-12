@@ -5,7 +5,7 @@
 * ❤ &nbsp; Interested in Back-End, Front-End, Cloud-Computing, Distributed Systems, and DevOps Practice
 * 🎓 &nbsp; Pursuing <b>Master of Science in Computer Science</b> at Northeastern University
 * 🎓 &nbsp; Obtained <b>Mechanical Engineering Bachelors degree</b> from The University of Washington
-* 💼 &nbsp; Looking for SWE/SDE <b>internship/co-op</b> opportunities from <b>Jan-2024 to Dec-2024 </b>
+* 💼 &nbsp; Looking for SWE/SDE <b>internship/co-op</b> opportunities from <b>Jan-2024 to Dec-2025 </b>
 * 💼 &nbsp; or Full Time Opportunities from Jan-2025 to May-2025 (Note my graduation date is flexible)
 
 ## 🤝🏻 &nbsp;Connect with Me ##
