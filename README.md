@@ -3,10 +3,9 @@
 # 💻 &nbsp;About Me 
 
 * ❤ &nbsp; Interested in Back-End, Front-End, Cloud-Computing, Distributed Systems, and DevOps Practice
-* 🎓 &nbsp; Pursuing <b>Master of Science in Computer Science</b> at Northeastern University
+* 🎓 &nbsp; Graduating Dec-2024 with a <b>Master of Science in Computer Science</b> from Northeastern University
 * 🎓 &nbsp; Obtained <b>Mechanical Engineering Bachelors degree</b> from The University of Washington
-* 💼 &nbsp; Looking for SWE/SDE <b>internship/co-op</b> opportunities from <b>Jan-2024 to Dec-2025 </b>
-* 💼 &nbsp; or Full Time Opportunities from Jan-2025 to May-2025 (Note my graduation date is flexible)
+* 💼 &nbsp; Looking for Full-Time Opportunities starting Jan-2025
 
 ## 🤝🏻 &nbsp;Connect with Me ##
 [Linkedin](https://https://www.linkedin.com/in/tsanevpeter/)
@@ -18,18 +17,18 @@
 ## 🧮 &nbsp; Programming Languages ###
 #### Proficient 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  
-#### Intermediate
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql&logoColor=007396)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  
+#### Intermediate
+![SQL](https://img.shields.io/badge/-SQL-333333?style=for-the-badge&logo=sql&logoColor=007396)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 #### Familiar
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## 🖥 Cloud/Database ### 
 #### Proficient /Intermediate 
@@ -42,6 +41,9 @@
 
 ## ⚙ &nbsp; Other Frameworks/Tools/Libraries ###
 #### Proficient /Intermediate 
+![Vue](https://img.shields.io/badge/vue-%2335496E?style=for-the-badge&logo=vue.js&logoColor=%2342B883)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
@@ -54,9 +56,7 @@
   
 #### Familiar 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=for-the-badge&logo=springboot)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
@@ -66,7 +66,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MySQLWorkbench](https://img.shields.io/badge/-MySQLWorkbench-333333?style=flat&logo=MySQLWorkbench)
+![MySQLWorkbench](https://img.shields.io/badge/-MySQLWorkbench-333333?style=for-the-badge&logo=MySQLWorkbench)
 
 #### 📜 &nbsp; Self Assessment Proficiency Levels Explained
 * <b> Proficient </b> - I consider myself proficient if I can use the tech stack with minimum reference to the documentation / write more than 10k lines of codes with it
