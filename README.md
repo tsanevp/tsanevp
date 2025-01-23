@@ -2,13 +2,16 @@
 
 # 💻 &nbsp;About Me 
 
-* ❤ &nbsp; Interested in Back-End, Front-End, Cloud-Computing, Distributed Systems, and DevOps Practice
-* 🎓 &nbsp; Graduating Dec-2024 with a <b>Master of Science in Computer Science</b> from Northeastern University
-* 🎓 &nbsp; Obtained <b>Mechanical Engineering Bachelors degree</b> from The University of Washington
+* ❤ &nbsp; I'm a Full-stack developer interested in learning new tech
+* 🎓 &nbsp; Obtained a <b>Masters in Computer Science</b> from Northeastern University
+* 🎓 &nbsp; Obtained a <b>Bachelors in Mechanical Engineering</b> from the University of Washington
 * 💼 &nbsp; Looking for Full-Time Opportunities starting Jan-2025
 
 ## 🤝🏻 &nbsp;Connect with Me ##
 [Linkedin](https://https://www.linkedin.com/in/tsanevpeter/)
+
+## 🌐 &nbsp;See my portfolio ##
+[Personal Portfolio](https://www.petertsanev.com/)
 
 # 🛠 &nbsp; My current Skill Tech Stack 
 ## 🥇 &nbsp; Certificates I Have
